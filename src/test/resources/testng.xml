@@ -5,10 +5,10 @@
 	<test name="Sample Maven Project Test Cases">
 		<packages>
 			<!--For Execute Matk Package Test Cases-->
-			<package name="com.softwaretestingo.math.*" />
+<!--			<package name="com.softwaretestingo.math.*" />-->
 			
 			<!--For Execute Launch Package Test Cases-->
-			<!--<package name="com.softwaretestingo.launch.*" />-->
+			<package name="com.softwaretestingo.launch.*" />
 		</packages>
 	</test>
 </suite>
